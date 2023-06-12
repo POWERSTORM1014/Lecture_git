@@ -115,7 +115,7 @@ export default function App() {
           style={[styles.button, styles.pinkButton]}
           onPress={() => handleButtonPress('6')}
         >
-          <Text style={[styles.buttonText, styles.whiteText]}>6</Text>
+          <Text style={[styles.buttonText, styles.whiteText]}>61</Text>
         </TouchableOpacity>
         <TouchableOpacity
           style={[styles.button, styles.whiteButton]}
